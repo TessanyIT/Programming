@@ -19,4 +19,4 @@ To explore the projects in this repository, you’ll need:
 ### Cloning the Repository
 To view or experiment with the code, clone this repository using:
 ```bash
-git clone https://github.com/yourusername/Programming-in-C.git
+git clone https://github.com/TessanyIT/Programming-in-C.git
